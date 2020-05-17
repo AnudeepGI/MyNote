@@ -41,7 +41,7 @@
 
 # Used - Need to learn more - know every less
      - Angular
-     - Reactive Native
+     - React Native
      - Docker
      - kubernetes
      - Flex
