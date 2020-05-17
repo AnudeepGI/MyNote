@@ -50,7 +50,7 @@
 
 # Planning to learn - This year ;)
     Javscript Topics
-        - rxjs
+        - RXJS
         - Vue
         - svelte
     Other Topics
