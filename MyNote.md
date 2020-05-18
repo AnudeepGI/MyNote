@@ -45,7 +45,7 @@
      - Docker
      - kubernetes
      - Flex
-     - weboack
+     - webpack
      - Typescript  
 
 # Planning to learn - This year ;)
@@ -67,3 +67,8 @@
         - Game Development - 3D unity
         - Grid
         - Serverless
+
+# Started learning 
+     - svelte
+     - Flex
+     - webpack
