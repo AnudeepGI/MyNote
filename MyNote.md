@@ -72,3 +72,9 @@
      - svelte
      - Flex
      - webpack
+     
+# New Topics
+     - Chakra UI
+     - 
+
+    
